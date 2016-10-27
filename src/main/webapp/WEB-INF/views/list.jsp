@@ -11,6 +11,6 @@
 	${prd.description} ${prd.price}</a>
 	<br />
 </c:forEach>
-<a href="edit"> Add Product</a>
+<a href="edit">Click here to Add Product</a>
 </body>
 </html>
